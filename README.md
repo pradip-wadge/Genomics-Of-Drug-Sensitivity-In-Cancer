@@ -1,7 +1,4 @@
-<video width="600" controls>
-  <source src="1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Download the Demo Video](1.mp4)
 
 # Genomics of Drug Sensitivity in Cancer (GDSC) - Dashboard and Dataset Analysis
 
