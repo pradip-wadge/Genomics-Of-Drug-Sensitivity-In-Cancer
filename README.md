@@ -1,3 +1,7 @@
+<img src="gdsc1.png" alt="Credit Risk Dashboard" width="900">
+<img src="gdsc2.png" alt="Credit Risk Dashboard" width="900">
+<img src="gdsc3.png" alt="Credit Risk Dashboard" width="900">
+
 # Genomics of Drug Sensitivity in Cancer (GDSC) - Dashboard and Dataset Analysis
 
 ## Overview
