@@ -1,5 +1,3 @@
-[Download the Demo Video](1.mp4)
-
 # Genomics of Drug Sensitivity in Cancer (GDSC) - Dashboard and Dataset Analysis
 
 ## Overview
