@@ -5,7 +5,7 @@ Description: Helps researchers select an appropriate sensitive drug for a partic
 <img src="gdsc2.png" alt="Credit Risk Dashboard" width="900">
 <img src="gdsc3.png" alt="Credit Risk Dashboard" width="900">
 
-# Genomics of Drug Sensitivity in Cancer (GDSC) - Dashboard and Dataset Analysis 12345
+# Genomics of Drug Sensitivity in Cancer (GDSC) - Dashboard and Dataset Analysis
 
 ## Overview
 This project provides insights into the **Genomics of Drug Sensitivity in Cancer (GDSC)** dataset, exploring the sensitivity of various cancer types to specific drugs. The dataset enables analysis of drug efficacy, cancer treatment effectiveness, and pathway sensitivities. Our Power BI dashboard visualizes key aspects, offering actionable insights for understanding cancer drug responses.
